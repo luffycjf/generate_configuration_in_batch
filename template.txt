@@ -1,0 +1,5 @@
+sysnmae @SYSNAME
+
+int  @INTNAME
+    ip address @IP
+    description @DES
