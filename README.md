@@ -14,7 +14,9 @@ int  @INTNAME
 ```
 <br>
 我需要生成三个交换机配置文件，参数放在了excel里面<br>
+
 ![](https://github.com/luffycjf/generate_configuration_in_batch/blob/master/QQ%E6%88%AA%E5%9B%BE20180301173438.png)<br>
+
 filename一栏是强制关联的参数名称，如果修改名称需要在程序里面修改对应参数，这一栏主要用于生成的配置文件名称。<br>
 
 执行 python templatecreater.py<br>
